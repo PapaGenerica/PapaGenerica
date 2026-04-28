@@ -4,4 +4,5 @@
 (y cosas que haga en mi instuto seguramente)
 # Acerca de mi
 Estudiante de ing. en informatica
+
 (de momento esto seria todo lo que puedo decir pero estoy seguro que seguire actualizando este perfil ´-` )
