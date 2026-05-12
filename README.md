@@ -11,3 +11,7 @@
 Estudiante de ing. en informatica
 
 (de momento esto seria todo lo que puedo decir pero estoy seguro que seguire actualizando este perfil ´-` )
+
+<div align="left">
+    <img src="https://grizbiub.neocities.org/quierokeke.gif" height="200px" />
+</div>
